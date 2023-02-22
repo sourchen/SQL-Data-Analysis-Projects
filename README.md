@@ -14,7 +14,7 @@ Compilation of SQL data analysis related projects and challenges where I practic
 
 # **Projects & Challenges**
 
-## [When Was the Golden Age of Video Games?] (https://github.com/sourchen/SQL-Data-Analysis-Projects/tree/main/When%20Was%20the%20Golden%20Age%20of%20Video%20Games%3F)
+## [When Was the Golden Age of Video Games?](https://github.com/sourchen/SQL-Data-Analysis-Projects/tree/main/When%20Was%20the%20Golden%20Age%20of%20Video%20Games%3F)
 
 SQL data analysis project for exploring video games created between 1977 to 2020 and to answer related questions:
 

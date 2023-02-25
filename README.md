@@ -26,3 +26,17 @@ SQL data analysis project for exploring video games created between 1977 to 2020
 - **Years video game players loved**
 - **Years that both players and critics loved**
 - **Sales in the best video game years**
+
+## Optimizing Online Sports Retail Revenue
+
+SQL Data Analysis project for online sports clothing company to help how they can optimize revenue and and to produce recommendations for its marketing and sales teams
+
+- **Counting missing values**
+- **Nike vs Adidas pricing**
+- **Labeling price ranges**
+- **Average discount by brand**
+- **Correlation between revenue and reviews**
+- **Ratings and reviews by product description length**
+- **Reviews by month and brand**
+- **Footwear product performance**
+- **Clothing product performance**

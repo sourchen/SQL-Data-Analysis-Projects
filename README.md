@@ -27,7 +27,7 @@ SQL data analysis project for exploring video games created between 1977 to 2020
 - **Years that both players and critics loved**
 - **Sales in the best video game years**
 
-## Optimizing Online Sports Retail Revenue
+## [Optimizing Online Sports Retail Revenue](https://github.com/sourchen/SQL-Data-Analysis-Projects/tree/main/Optimizing%20Online%20Sports%20Retail%20Revenue)
 
 SQL Data Analysis project for online sports clothing company to help how they can optimize revenue and and to produce recommendations for its marketing and sales teams
 
